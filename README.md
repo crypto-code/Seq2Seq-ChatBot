@@ -45,3 +45,16 @@ optional arguments:
   --dataset DATASET  Dataset to be used twitter or cornell
   --topn TOPN        Number of Top Outputs
 ```
+
+## Examples
+```
+Query > happy birthday honey
+ > thanks for coming
+ > thanks unk  i appreciate you too
+ > thanks for the love
+ 
+Query > the world is going bad
+ > i agree with that statement but i agree with that
+ > i agree unk is unk
+ > i agree with unk unk and i dont know what to do
+ ```
