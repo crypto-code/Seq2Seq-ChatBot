@@ -25,7 +25,7 @@ def initial_setup(data_corpus):
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description='Train Seq2Seq Chatbot')
+    parser = argparse.ArgumentParser(description='Test Seq2Seq Chatbot')
     parser.add_argument('--dataset',type=str,required=True,help='Dataset to be used twitter or cornell')
     parser.add_argument('--topn',type=str,default=3,help='Number of Top Outputs')
     args = parser.parse_args()
