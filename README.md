@@ -49,9 +49,9 @@ optional arguments:
 ## Examples
 ```
 Query > happy birthday honey
- > thanks for coming
- > thanks unk  i appreciate you too
- > thanks for the love
+ > thank you dear
+ > thank u babe
+ > thank ya
  
 Query > the world is going bad
  > i agree with that statement but i agree with that
