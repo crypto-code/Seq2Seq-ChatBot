@@ -54,7 +54,7 @@ Query > happy birthday honey
  > thank ya
  
 Query > the world is going bad
- > i agree with that statement but i agree with that
- > i agree unk is unk
- > i agree with unk unk and i dont know what to do
+ > i agree with that statement but i dont know what to do
+ > i agree world is unk but
+ > i agree with it unk and unk dont know unk to do
  ```
