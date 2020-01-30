@@ -65,4 +65,20 @@ Query > the world is going bad
  > i agree with that statement but i dont know what to do
  > i agree world is unk but
  > i agree with it unk and unk dont know unk to do
+ 
+ Query > how are you ?
+ > i dont think im okay you
+ > i told them to say i was just good
+ > i always thought i was ok 
+ 
+Query > are you a spy ?
+ > no sir
+ > no its been a long unk
+ > yes for long time
  ```
+ 
+ 
+# G00D LUCK
+
+For doubts email me at:
+atinsaki@gmail.com
